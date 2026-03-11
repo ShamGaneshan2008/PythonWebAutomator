@@ -1,5 +1,6 @@
-.env
-__pycache__/
 .venv/
+.idea/
+__pycache__/
+chromedriver-win64/
+.env
 *.pyc
-chromedriver
